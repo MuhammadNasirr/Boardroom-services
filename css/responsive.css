@@ -1482,6 +1482,8 @@
     h6 {font-size:22px; line-height:26px}
     p { margin: 0 0 20px; }
 
+    .list-style-icons {line-height: 20px!important;}
+    .icons-list{ line-height: 43px!important;}
     .title-large {font-size: 70px; line-height:65px}
     .title-extra-large {font-size: 100px; line-height:95px}
     .percent {line-height: 125px;}
